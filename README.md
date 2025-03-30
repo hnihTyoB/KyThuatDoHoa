@@ -2,7 +2,7 @@
 
 ## Bước 1: Mở Terminal
 
-## Bước 2: Nhập lệnh lần lượt từng dòng lệnh dưới đây
+## Bước 2: Nhập lần lượt từng dòng lệnh dưới đây
 
 ```bash
 pip install turtle
